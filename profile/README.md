@@ -1,2 +1,2 @@
 # lilAgents
-Human-first, AI-driven marketing agency with a focus on strategy, design, and software development.
+Digital assets you own forever. We build websites, brands, marketing systems, and custom tools with no platform lock-in.
